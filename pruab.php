@@ -1,3 +1,3 @@
 <?php 
-echo "esto es una prueba con github";
+echo "esto es una prueba con github uno";
 ?>
